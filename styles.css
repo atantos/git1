@@ -20,3 +20,10 @@ blockquote{
 	width: 100%;
 
 }
+
+div {
+	
+	border-bottom: beige;
+	fill: crimson;
+	font: larger;
+}
