@@ -22,7 +22,7 @@ blockquote{
 }
 
 div {
-	
+	text-decoration: aqua;
 	border-bottom: beige;
 	fill: crimson;
 	font: larger;
