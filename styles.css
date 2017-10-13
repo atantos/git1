@@ -6,7 +6,7 @@ body{
 	color: red;
 	font-family: Times serif;
 	font: bold;
-	font-size: 3em;
+	font-size: 2em;
 	width: 100%;
 	text-align: center;
 	text-decoration: ghostwhite;
@@ -18,12 +18,15 @@ blockquote{
 	font-family: fantasy;
 	font: oblique;
 	width: 100%;
+	text-overflow: ellipsis;
 
 }
 
 div {
-	text-decoration: aqua;
+
+	text-decoration: azure;
 	border-bottom: beige;
 	fill: crimson;
 	font: larger;
+	color: aqua;
 }
