@@ -1,62 +1,20 @@
-/*
-
-[Table of Contents]
-
-1. Section
-	1.1 Subsection
-		1.1.1 Subsubsection
-2. new page
-	2.1 Subsection
-	2.2 Subsection
-
-*/
-
-
-
-/*************** 1. First tab ***************/
-
 .class{
 	color: #FF9A85;
-	font-family: Times;
+	font-family: monospace
 	width: 100%;
 }
 /*****---------- 1.1 subsection of the first tab ----------*****/
 
 body{
-	color: #FF9A85;
-	font-family: fantasy;
-	font: oblique;
+	color: red;
+	font-family: Times serif;
+	font: bold;
+	font-size: 3em;
 	width: 100%;
+	text-align: center;
+	text-decoration: ghostwhite;
 }
 /**------------- 1.1.1 Subsubsection -------------**/
-
-blockquote{
-	color: #FF9A85;
-	font-family: fantasy;
-	font: oblique;
-	width: 100%;
-
-}
-
-/*************** 2. new page ***************/
-
-
-.class{
-	color: #FF9A85;
-	font-family: Times;
-	width: 100%;
-}
-
-/*****---------- 2.1 Subsection ----------*****/
-
-body{
-	color: #FF9A85;
-	font-family: fantasy;
-	font: oblique;
-	width: 100%;
-}
-
-/*****---------- 2.2 Subsection ----------*****/
 
 blockquote{
 	color: #FF9A85;
